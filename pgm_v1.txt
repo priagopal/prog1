@@ -1,3 +1,4 @@
 this is my first version of program.
 
-I am adding v2.
+I am adding version 2.
+I am a new team member. I am adding more. 
