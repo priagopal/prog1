@@ -1,3 +1,4 @@
 program file for presentation purposes.Version 1.
 
 The programming logic needs to be updated. Specifications were changed as per stats input.
+The logic was changed as a colloborator.
