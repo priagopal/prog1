@@ -1,5 +1,10 @@
 this is my first version of program.
 
+<<<<<<< HEAD
 I am adding v2.
 
 I am making updates v3.
+=======
+I am adding version 2.
+I am a new team member. I am adding more. 
+>>>>>>> aae80fe7a7c6a43fa744e637fab2e24ebe1f0dc0
